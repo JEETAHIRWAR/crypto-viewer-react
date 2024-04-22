@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crypto-viewer-react/static/css/main.0d024698.css",
+    "main.js": "/crypto-viewer-react/static/js/main.e7aa8f88.js",
+    "static/js/453.387bc9b2.chunk.js": "/crypto-viewer-react/static/js/453.387bc9b2.chunk.js",
+    "index.html": "/crypto-viewer-react/index.html",
+    "main.0d024698.css.map": "/crypto-viewer-react/static/css/main.0d024698.css.map",
+    "main.e7aa8f88.js.map": "/crypto-viewer-react/static/js/main.e7aa8f88.js.map",
+    "453.387bc9b2.chunk.js.map": "/crypto-viewer-react/static/js/453.387bc9b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d024698.css",
+    "static/js/main.e7aa8f88.js"
+  ]
+}
